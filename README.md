@@ -1,6 +1,6 @@
 # [converter](#)
 
-Just convert data here.
+It's a Windows app that let you convert data files.
 
 ## conversions
 
