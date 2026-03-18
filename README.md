@@ -152,6 +152,16 @@ It's a Windows app that let you convert data files.
 - [ ] SDF to Postgres
 - [ ] SDF to PostgresSQL
 
+## media files
+
+- [ ] MP4 to MP3
+- [ ] MP3 to text (speech)
+- [ ] Text to MP3
+- [ ] PNGs to MP4
+- [ ] 3D models to MP4
+- [ ] PDF to text
+- [ ] Youtube download
+
 ## how to use it
 
 TODO
